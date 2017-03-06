@@ -1,30 +1,25 @@
 (Originally posted on Quora as an answer to ["How do I learn deep learning in 2 months?"](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))
 
-If you have coding experience and have an engineering background or apropriate basis in mathematics and computer science, 2 months are all you need to gain proficeny in deep learning. Here's a four step process to follow
+If you have coding experience with an engineering background or appropriate basis in mathematics and computer science in two months you can be proficiency in deep learning. Here's a four-step process to guide your effort.
 
-Still need motivation to get started with Deep Learning, check out the following video by Andrew Ng
-
+For more inspiration check out the following video by Andrew Ng
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/n1ViNeWhC24/hqdefault.jpg)](http://www.youtube.com/watch?v=n1ViNeWhC24)
 
 ##  Step 0: Learn Machine Learning Basics
 
 *(Optional but recommended)*
 
-Start with Andrew Ng’s Class on machine learning
+Start with Andrew Ng's Class on machine learning
 [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning).
 His course provides an introduction to various Machine Learning algorithms are
 out there and, more importantly, the general procedures/methods for machine
 learning, including data preprocessing, hyper-parameter tuning, etc.
 
-Read the [NIPS 2015 Deep Learning
-Tutorial](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf)
-by Geoff Hinton, Yoshua Bengio, and Yann LeCun for an introduction at a slightly
-lower level.
+Read the [NIPS 2015 Deep Learning Tutorial](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf) by Geoff Hinton, Yoshua Bengio, and Yann LeCun for an introduction at a slightly lower level.
 
 ## Step 1: Dig into Deep Learning
 
-My learning preference is to watch lecture videos and thankfully there are
-several excellent courses online. Here are few classes I liked
+My learning preference is to watch lecture videos and thankfully there are several excellent courses online. Here are few classes I liked
 
 * [Deep learning at Oxford
 2015](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/) Taught by Nando de
