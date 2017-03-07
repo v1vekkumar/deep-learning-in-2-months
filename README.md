@@ -1,6 +1,6 @@
 *(Originally posted on Quora as an answer to [How do I learn deep learning in 2 months?](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))*
 
-If you have coding experience with an engineering background, or an appropriate base knowledge in mathematics and computer science, in just two months you can become proficient in deep learning. Hard to believe? Here's a four-step process that makes it perfectly possible. 
+If you have coding experience with an engineering background or an appropriate base knowledge in mathematics and computer science, in just two months you can become proficient in deep learning. Hard to believe? Here's a four-step process that makes it possible. 
 
 
 For more inspiration check out the following video by Andrew Ng
@@ -12,7 +12,7 @@ For more inspiration check out the following video by Andrew Ng
 
 Start with Andrew Ng's Class on machine learning
 [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning).
-His course provides an introduction to the various Machine Learning algorithms currently out there and, more importantly, the general procedures and methods for machine learning, including data preprocessing, hyper-parameter tuning, and more. .
+His course provides an introduction to the various Machine Learning algorithms currently out there and, more importantly, the general procedures and methods for machine learning, including data preprocessing, hyper-parameter tuning, and more.
 
 I would also recommend reading the [NIPS 2015 Deep Learning Tutorial](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf) by Geoff Hinton, Yoshua Bengio, and Yann LeCun, which offers an introduction at a slightly lower level.
 
@@ -34,7 +34,7 @@ generalized [backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 algorithm and was crucial to the development of [deep
 learning](https://en.wikipedia.org/wiki/Deep_learning). I have utmost respect
 for him, but I found the delivery of this course bit unorganized. Furthermore,
-coursera messes up with the placement of quizzes. Still worth a look though. 
+coursera messes up with the placement of quizzes. Still worth a look, though. 
 * [Neural Networks
 Class](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) by
 Hugo Larochelle: Another excellent course
@@ -84,7 +84,7 @@ Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing/an
 ### 3. Memory Network (RNN-LSTM)
 
 Recent work in combining attention mechanism in LSTM Recurrent Neural networks
-with external writable memory has led to some interesting work in building
+with external writable memory has led to some impressive work in building
 systems that can understand, store and retrieve information in a question &
 answering style. This research area got its start in Dr. Yann Lecun’s Facebook
 AI lab at NYU. The original paper is available on arxiv: [Memory
@@ -97,10 +97,9 @@ Processing](http://arxiv.org/abs/1506.07285) is a great resource
 
 Deep Reinforcement Learning was made famous by AlphaGo, the Go-playing system that [recently
 defeated](http://www.nytimes.com/2016/03/16/world/asia/korea-alphago-vs-lee-sedol-go.html?__hstc=13887208.2c86f1d755a00edda38e8cb1d7fb3483.1473023471841.1473023471841.1473023471844.2&__hssc=13887208.1.1473023471844&__hsfp=1720600770)
-the strongest Go players in history. David Silver’s (Google Deepmind) [Video
-Lectures on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and
-Professor [Rich Stutton’s
-book](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) are
+the strongest Go players in history. David Silver's (Google Deepmind) [Video
+Lectures on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), and
+Professor [Rich Stutton's book](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html), are
 great place to start. For a gentler introduction to LSTM see Christopher’s post
 on [Understanding LSTM networks
 ](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) and Andrej Karpathy’s
@@ -117,7 +116,7 @@ dimensions or something else entirely. Out of the three commonly used generative
 models — [Generative Adversarial Networks
 (GANs)](http://arxiv.org/abs/1406.2661), [Variational Autoencoders
 (VAEs)](https://arxiv.org/abs/1312.6114) and Autoregressive models (such as
-[PixelRNN](http://arxiv.org/abs/1601.06759)) , GAN’s are most popular. To dig
+[PixelRNN](http://arxiv.org/abs/1601.06759)), GAN's are most popular. To dig
 deeper read
 
 * [Original GAN paper by Ian Goodfellow et al.](http://arxiv.org/abs/1406.2661)
@@ -132,7 +131,7 @@ Image Superresolution](https://github.com/david-gpu/srez)
 
 ## Step 11: Build Something
 
-Reading and watching lessons is great, but doing is the real key to becoming an expert. Try to build something which interests you
+Reading and watching lessons is great, but doing is the real key to becoming an expert. Try to create something which interests you
 and matches your skill level. Here are a few suggestions to get you thinking:
 
 * As is tradition, start with classifying the [MNIST
@@ -156,7 +155,7 @@ Learning](https://twitter.com/ColorizeBot)
 
 For more inspiration, take a look at CS231n [Winter
 2016](http://cs231n.stanford.edu/reports2016.html) and [Winter
-2015](http://cs231n.stanford.edu/reports.html) projects. Also keep an eye on the
+2015](http://cs231n.stanford.edu/reports.html) projects. Also, keep an eye on the
 Kaggle and HackerRank competitions for fun stuff and the opportunities to
 compete and learn.
 
