@@ -14,7 +14,7 @@ Start with Andrew Ng's Class on machine learning
 [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning).
 His course provides an introduction to the various Machine Learning algorithms currently out there and, more importantly, the general procedures and methods for machine learning, including data preprocessing, hyper-parameter tuning, and more. .
 
-I would also recommend reading [NIPS 2015 Deep Learning Tutorial](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf) by Geoff Hinton, Yoshua Bengio, and Yann LeCun, which offers an introduction at a slightly lower level.
+I would also recommend reading the [NIPS 2015 Deep Learning Tutorial](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf) by Geoff Hinton, Yoshua Bengio, and Yann LeCun, which offers an introduction at a slightly lower level.
 
 ## Step 1: Dig into Deep Learning
 
@@ -54,7 +54,7 @@ Bengio and Aaron Courville: A bit denser, but never the less a great resource
 ## Step 10: Pick a focus area and go deeper
 
 The next step is to identify what you are passionate about and go deeper. The field
-is vast, so this list is in no way a comprehesnive one.
+is vast, so this list is in no way a comprehensive one.
 
 
 ### 1. Computer vision
@@ -62,7 +62,7 @@ is vast, so this list is in no way a comprehesnive one.
 Deep Learning has transformed this area. Stanford’s CS231N course by Andrej
 Karpathy's course is the best course I have come across; [CS231n Convolutional
 Neural Networks for Visual Recognition](http://cs231n.github.io/). It teaches
-you the basics and up to convnets, as well as helping you to set up GPU instance
+you the basics up to convnets, as well as helping you to set up GPU instance
 in AWS. Also, take the time to check out [Getting Started in Computer
 Vision](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)
 by [Mostafa S. Ibrahim](https://sites.google.com/site/mostafasibrahim/)
@@ -101,7 +101,7 @@ the strongest Go players in history. David Silver’s (Google Deepmind) [Video
 Lectures on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and
 Professor [Rich Stutton’s
 book](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) are
-great place to start. For a gentle introduction to LSTM see Christopher’s post
+great place to start. For a gentler introduction to LSTM see Christopher’s post
 on [Understanding LSTM networks
 ](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) and Andrej Karpathy’s
 [The Unreasonable Effectiveness of Recurrent Neural
@@ -132,7 +132,7 @@ Image Superresolution](https://github.com/david-gpu/srez)
 
 ## Step 11: Build Something
 
-While reading and watching lessons is great, but doing is the real key to becoming an expert. Try to build something which interests you
+Reading and watching lessons is great, but doing is the real key to becoming an expert. Try to build something which interests you
 and matches your skill level. Here are a few suggestions to get you thinking:
 
 * As is tradition, start with classifying the [MNIST
