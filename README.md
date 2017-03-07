@@ -1,6 +1,6 @@
 *(Originally posted on Quora as an answer to [How do I learn deep learning in 2 months?](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))*
 
-If you have coding experience with an engineering background or an appropriate base knowledge in mathematics and computer science, in just two months you can become proficient in deep learning. Hard to believe? Here's a four-step process that makes it possible. 
+If you have coding experience with an engineering background or relevant knowledge in mathematics and computer science, in just two months you can become proficient in deep learning. Hard to believe? Here's a four-step process that makes it possible. 
 
 
 For more inspiration check out the following video by Andrew Ng
@@ -89,7 +89,7 @@ systems that can understand, store and retrieve information in a question &
 answering style. This research area got its start in Dr. Yann Lecun’s Facebook
 AI lab at NYU. The original paper is available on arxiv: [Memory
 Networks](http://arxiv.org/abs/1410.3916). There are then a number of research variants,
-datasets, benchmarks, etc that have stemmed from this work to aid further learning. For example,
+datasets, benchmarks, etc. that have stemmed from this work to aid further learning. For example,
 Metamind's [Dynamic Memory Networks for Natural Language
 Processing](http://arxiv.org/abs/1506.07285) is a great resource
 
@@ -99,8 +99,8 @@ Deep Reinforcement Learning was made famous by AlphaGo, the Go-playing system th
 defeated](http://www.nytimes.com/2016/03/16/world/asia/korea-alphago-vs-lee-sedol-go.html?__hstc=13887208.2c86f1d755a00edda38e8cb1d7fb3483.1473023471841.1473023471841.1473023471844.2&__hssc=13887208.1.1473023471844&__hsfp=1720600770)
 the strongest Go players in history. David Silver's (Google Deepmind) [Video
 Lectures on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), and
-Professor [Rich Stutton's book](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html), are
-great place to start. For a gentler introduction to LSTM see Christopher’s post
+Professor [Rich Stutton's book](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) are
+a great place to start. For a gentler introduction to LSTM see Christopher’s post
 on [Understanding LSTM networks
 ](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) and Andrej Karpathy’s
 [The Unreasonable Effectiveness of Recurrent Neural
@@ -171,9 +171,7 @@ and recent breakthroughs
 follow on Twitter for machine learning information
 ?](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information/answer/Vivek-Kumar-893)
 )
-* Joining the [Google+ Deep Learning Community
-](https://plus.google.com/communities/112866381580457264725), by Yann
-Lecunn, is a good way to keeping in touch with innovations in deep learning as
+* Joining the [Google+ Deep Learning Community](https://plus.google.com/communities/112866381580457264725), by Yann Lecunn, is a good way to keeping in touch with innovations in deep learning as
 well as communicating with other deep learning professionals and enthusiasts.
 
 See
