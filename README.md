@@ -1,4 +1,4 @@
-(Originally posted on Quora as an answer to ["How do I learn deep learning in 2 months?"](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))
+*(Originally posted on Quora as an answer to [How do I learn deep learning in 2 months?](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))*
 
 If you have coding experience with an engineering background, or an appropriate base knowledge in mathematics and computer science, in just two months you can become proficient in deep learning. Hard to believe? Here's a four-step process that makes it perfectly possible. 
 
